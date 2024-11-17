@@ -1,0 +1,146 @@
+using System;
+
+
+struct ComplexNumber
+{
+    public double Real { get; set; }
+    public double Imag { get; set; }
+
+    public ComplexNumber(double real, double imag)
+    {
+        Real = real;
+        Imag = imag;
+    }
+
+    //Сложения
+
+    public void Add(ComplexNumber other)
+    {
+        Real += other.Real;
+        Imag += other.Imag;
+    }
+
+    // вычитания
+    public void Subtract(ComplexNumber other)
+    {
+        Real -= other.Real;
+        Imag -= other.Imag;
+    }
+
+    //умножения
+    public void Multiply(ComplexNumber other)
+    {
+        double real = Real * other.Real - Imag * other.Imag;
+        double imag = Real * other.Imag + Imag + other.Real;
+        Real = real;
+        Imag = imag;
+    }
+
+    // Деления
+
+    public void Divide(ComplexNumber other)
+    {
+        double denominator = other.Real * other.Real + other.Imag * other.Imag;
+        double real = (Real * other.Real + Imag * other.Imag) / denominator;
+        double imag = (Imag * other.Real - Real * other.Imag) / denominator;
+        Real = real;
+        Imag = imag;
+    }
+
+    //Модуль
+    public double Magnitude()
+    {
+        return Math.Sqrt(Real * Real + Imag * Imag);
+    }
+
+    //Аргумент
+    public double Argument()
+    {
+        if (Real > 0) return Math.Atan(Imag / Real);
+        if (Real < 0 && Imag >= 0) return Math.PI + Math.Atan(Imag / Real);
+        if (Real < 0 && Imag < 0) return -Math.PI + Math.Atan(Imag / Real);
+        if (Real == 0 && Imag > 0) return Math.PI / 2;
+        if (Real == 0 && Imag < 0) return -Math.PI / 2;
+        return 0; // Аргумент для (0, 0) неопределен, возвращаем 0
+    }
+
+
+
+    public override string ToString()
+    {
+        return $"{Real}+{Imag}i";
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        ComplexNumber current = new ComplexNumber(0, 0);
+        while (true)
+        {
+            Console.WriteLine("Текущие комплексное число: " + current);
+            Console.WriteLine("Выберите действие:");
+            Console.WriteLine("1 - Ввести новое комплексное число");
+            Console.WriteLine("2 - Сложить с другим комплексным числом");
+            Console.WriteLine("3 - Вычесть другое комплексное число");
+            Console.WriteLine("4 - Умножить на другое комплексное число");
+            Console.WriteLine("5 - Разделить на другое комплексное число");
+            Console.WriteLine("6 - Найти модуль комплексного числа");
+            Console.WriteLine("7 - Найти аргумент комплексного числа");
+            Console.WriteLine("Q/q - Выход");
+
+            string choice = Console.ReadLine();
+
+            switch (choice)
+            {
+                case "1":
+                    current = EnterComplexNumber();
+                    break;
+                case "2":
+                    ComplexNumber addNumber = EnterComplexNumber();
+                    current.Add(addNumber);
+                    break;
+                case "3":
+                    ComplexNumber subNumber = EnterComplexNumber();
+                    current.Subtract(subNumber);
+                    break;
+                case "4":
+                    ComplexNumber mulNumber = EnterComplexNumber();
+                    current.Multiply(mulNumber);
+                    break;
+                case "5":
+                    ComplexNumber divNumber = EnterComplexNumber();
+                    current.Divide(divNumber);
+                    break;
+                case "6":
+                    Console.WriteLine("Модуль комплексного числа: " + current.Magnitude());
+                    break;
+                case "7":
+                    Console.WriteLine("Аргумент комплексного числа: " + current.Argument());
+                    break;
+                case "Q":
+                case "q":
+                    Console.WriteLine("Выход из программы...");
+                    return;
+                default:
+                    Console.WriteLine("Неизвестная команда");
+                    break;
+            }
+        }
+    }
+
+
+    static ComplexNumber EnterComplexNumber()
+    {
+        Console.Write("Введите вещественную часть: ");
+        double real = double.Parse(Console.ReadLine());
+        Console.Write("Введите мнимую часть: ");
+        double imag = double.Parse(Console.ReadLine());
+        return new ComplexNumber(real, imag);
+    }
+}
+
+
+    
+    
