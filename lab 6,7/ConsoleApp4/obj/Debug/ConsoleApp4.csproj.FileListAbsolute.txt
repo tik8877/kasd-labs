@@ -1,0 +1,14 @@
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\tigra\source\repos\Laba 7\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\tigra\source\repos\Laba 7\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\tigra\source\repos\Laba 7\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\tigra\source\repos\Laba 7\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\tigra\source\repos\Laba 7\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\tigra\source\repos\Laba 7\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\tigra\source\repos\Laba 7\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
