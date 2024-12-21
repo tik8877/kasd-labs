@@ -1,0 +1,28 @@
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.exe
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.deps.json
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.runtimeconfig.json
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.dll
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.dll
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\refint\ConsoleApp4.dll
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\tigra\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ref\ConsoleApp4.dll
+C:\Users\tigra\source\repos\lab 21\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.exe
+C:\Users\tigra\source\repos\lab 21\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.deps.json
+C:\Users\tigra\source\repos\lab 21\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.runtimeconfig.json
+C:\Users\tigra\source\repos\lab 21\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.dll
+C:\Users\tigra\source\repos\lab 21\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\tigra\source\repos\lab 21\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigra\source\repos\lab 21\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\tigra\source\repos\lab 21\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\tigra\source\repos\lab 21\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\tigra\source\repos\lab 21\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.dll
+C:\Users\tigra\source\repos\lab 21\ConsoleApp4\obj\Debug\net8.0\refint\ConsoleApp4.dll
+C:\Users\tigra\source\repos\lab 21\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\tigra\source\repos\lab 21\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\tigra\source\repos\lab 21\ConsoleApp4\obj\Debug\net8.0\ref\ConsoleApp4.dll
