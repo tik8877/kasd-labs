@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Лаба_22 C#\Лаба_22 C#\HashMapLibrary\HashMapLibrary\bin\Debug\HashMapLibrary.dll
+C:\Users\user\source\repos\Лаба_22 C#\Лаба_22 C#\HashMapLibrary\HashMapLibrary\bin\Debug\HashMapLibrary.pdb
+C:\Users\user\source\repos\Лаба_22 C#\Лаба_22 C#\HashMapLibrary\HashMapLibrary\obj\Debug\HashMapLibrary.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Лаба_22 C#\Лаба_22 C#\HashMapLibrary\HashMapLibrary\obj\Debug\HashMapLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Лаба_22 C#\Лаба_22 C#\HashMapLibrary\HashMapLibrary\obj\Debug\HashMapLibrary.dll
+C:\Users\user\source\repos\Лаба_22 C#\Лаба_22 C#\HashMapLibrary\HashMapLibrary\obj\Debug\HashMapLibrary.pdb
