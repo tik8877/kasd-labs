@@ -1,0 +1,6 @@
+This is a test string.
+Another line with more words, like apple and banana.
+And then there is ABC, abc, and ABc!
+123 numbers too
+  пустые строки тоже
+Test
